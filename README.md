@@ -3,7 +3,7 @@
 ##
 
 Hello, world! I'm Sofia, a 3rd-year CS student specializing in Software Engineering. I love creating and I'm building my path to becoming a Full-Stack Developer.
-I lean more on the creative side but currently, I am working on the logic side behind software.
+I lean more on the creative side but currently, I am working on the logic behind software.
 
 
 ---
@@ -31,6 +31,7 @@ I lean more on the creative side but currently, I am working on the logic side b
 ## Currently Learning
  
 - Mastering the core trio of web development: HTML, CSS, and Javascript
+- Understanding Front-End Development
 
 ---
 
